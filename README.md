@@ -14,4 +14,4 @@
 
 <h4 align="center">:exclamation: Pode haver alguns bugs, por favor reportar!! :exclamation:</h4>
 
-![Logo do HTML, CSS e Javascript.](https://user-images.githubusercontent.com/51096190/177724415-d9a56c5c-5d52-4f38-aab3-40a3b8ebef56.png)
+<p align="center">![Logo do HTML, CSS e Javascript.](https://user-images.githubusercontent.com/51096190/177724415-d9a56c5c-5d52-4f38-aab3-40a3b8ebef56.png)<p>
